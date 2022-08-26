@@ -11,6 +11,6 @@ http://localhost:8080/multiplicacao/{primeiroNumero}/{segundoNumero}
 
 http://localhost:8080/divisao/{primeiroNumero}/{segundoNumero}
 
-http://localhost:8080/raisQuadrada/{numero}
+http://localhost:8080/rais-quadrada/{numero}
 
 http://localhost:8080/media/{primeiroNumero}/{segundoNumero}
